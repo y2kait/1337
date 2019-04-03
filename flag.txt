@@ -1,6 +1,10 @@
 just kidding! xD 
 
-Remo do not like people who look for flags. He has hidden the flag and left this below string. Lets see if you can crack it.
+Thor gave all thre flags to the father Odin to protect them. Almighty Odin, do not like people who look for flags. He has hidden the flag and left this below string. Lets see if you can crack it.
 ==>>
 
-k3f0 a4l z1o3g 4ee ma3 ye4zl mh z0w a3 w0g'm ebdx z1o1gz 4ptr
+
+1 0w1g 4f ma3 ik0m3vm0k 0y ye4zl 4gw ma3 y4ma3k hy ma0k.
+1 0d1n 4m th3 pr0t3ct0r 0f fl4gs 4nd th3 f4th3r of th0r. 
+
+F_IBM{1NM3RFSD3RFR}
